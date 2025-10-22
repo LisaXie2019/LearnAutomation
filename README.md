@@ -12,3 +12,6 @@ Step3: fill the file name and all the required content
 Step4: Click 'Commit new file'
 
 new push test
+
+
+test pull
